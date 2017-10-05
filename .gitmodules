@@ -1,6 +1,6 @@
 [submodule "riscv-binutils-gdb"]
 	path = riscv-binutils-gdb
-	url = ../riscv-binutils-gdb.git
+	url = https://github.com/nitish2112/riscv-binutils-gdb.git
 [submodule "riscv-gcc"]
 	path = riscv-gcc
 	url = ../riscv-gcc.git
